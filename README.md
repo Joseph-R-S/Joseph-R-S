@@ -1,7 +1,6 @@
 - 👋 Olá meu nome é: Joseph
 - 👀 Tenho interesse em programação, especificamente front-end, javascript
 - 🌱 Atualmente estou estudando React
-- 💞️ I’m looking to collaborate on ...
 
 
 
