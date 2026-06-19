@@ -1,6 +1,6 @@
 - 👋 Olá meu nome é: Joseph
-- 👀 Tenho interesse em programação, especificamente front-end, javascript
-- 🌱 Atualmente estou estudando React
+- Tenho interesse em programação, programo front-end, javascript, tambem programo em php uso o framework Adianti.
+-  Atualmente estou estudando React
 
 
 
